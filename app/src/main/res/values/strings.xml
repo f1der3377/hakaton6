@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hakaton6</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="accessibility_service_label">"Be Cody "</string>
+    <string name="accessibility_service_description" />
+</resources>
